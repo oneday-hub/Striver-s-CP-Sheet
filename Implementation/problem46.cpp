@@ -1,3 +1,5 @@
+// A. Middle of the Contest
+
 #include <bits/stdc++.h>
 using namespace std;
 
